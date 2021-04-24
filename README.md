@@ -1,1 +1,4 @@
-# Teoria-de-lenguajes
+# Teoría de lenguajes
+Cátedra Ferrigno. Lenguaje Oz.
+
+### En proceso...
